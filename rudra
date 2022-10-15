@@ -1,0 +1,15 @@
+#include "bits/stdc++.h"
+using namespace std;
+void (printValueOfPi(int N))
+{
+    double pi = 2 * acos(0.0);
+    printf("%.*lf\n", N, (pi-3));
+}
+int main()
+{
+    int x;
+    scanf("%d", &x);
+    int N = x;
+    (printValueOfPi(N));
+    return 0;
+}
